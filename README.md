@@ -1,2 +1,3 @@
-# DAC_write-up_1
-A brief of sessions by KaushalKishore (Part-1)
+# Data Analysis Club
+# Indian Institute of Technology, Palakkad 
+##Lecture contents and study materials.
