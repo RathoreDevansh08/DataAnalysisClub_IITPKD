@@ -1,0 +1,41 @@
+STEPS TO SETUP THE ENVIRONMENT FOR OPENCV:-
+
+STEP1: 
+
+DOWNLOAD THE ANACONDA DISTRIBUTION FROM THE GIVEN LINK: 
+https://www.anaconda.com/download/
+
+
+STEP2:
+
+INSTALL THE ANACONDA DISTRIBUTION.
+
+chmod +x Anaconda3-5.0.1-Linux-x86_64.sh
+
+./Anaconda3-5.0.1-Linux-x86_64.sh 
+
+
+STEP3:
+
+CREATING THE VIRTUAL ENVIRONMENT FOR PYTHON3.5 PACKAGES
+
+conda create -n py35 python=3.5 anaconda
+
+# To activate this environment, use:
+# > source activate py35
+#
+# To deactivate an active environment, use:
+# > source deactivate
+
+source activate py35
+conda install -c conda-forge opencv
+
+INSTALLING THE TENSORFLOW IS OPTIONAL
+# conda install -c conda-forge tensorflow
+
+python -m ipykernel install --user --name py35
+
+
+STEP4:
+
+CHECK WHETHER ALL THE INSTALLED PACKAGES ARE WORKING PROPERLY.
