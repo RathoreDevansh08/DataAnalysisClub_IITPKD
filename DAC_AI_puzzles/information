@@ -1,0 +1,5 @@
+Some important points before executing this code: -
+
+- Make sure you have the 'show.py' file in the same directory/folder
+- Make sure you use python2 to run the program
+- If you want to use python3, then change all the 'queue' in the program to 'Queue'
