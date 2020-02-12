@@ -1,5 +1,6 @@
-#Data Analysis Competition
+>Data Analysis Competition
 <br/>
+
 Organizers:
 <br/>Amit Vikram Singh
 <br/>Sai Suchith Mahajan
