@@ -1,4 +1,5 @@
-<h1>Data Analysis Competition</h1>
+<h1>Data Analytics Competition</h1>
+<h2>Petrichor2020, IIT Palakkad</h2>
 <br/>
 
 <b>Organizers:</b>
